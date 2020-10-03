@@ -5,4 +5,7 @@ CS344M: Autonomous Multiagent Systems -- Fall 2010
 
 [rcssserver repo](https://github.com/rcsoccersim/rcssserver)
 
+[cs344m website](https://www.cs.utexas.edu/~pstone/Courses/344Mfall10)
+
+
 
