@@ -5,7 +5,10 @@ CS344M: Autonomous Multiagent Systems -- Fall 2010
 
 [rcssserver repo](https://github.com/rcsoccersim/rcssserver)
 
+[The RoboCup Simulator Team Repository](http://medialab.di.unipi.it/Project/Robocup/pub)
+
 [cs344m website](https://www.cs.utexas.edu/~pstone/Courses/344Mfall10)
+
 
 
 
