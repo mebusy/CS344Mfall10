@@ -48,7 +48,10 @@ Central control | Distributed control
     ```
 - rcsslogplayer
     - [Deprecated] The RoboCup Soccer Simulator Monitor v16 or later support the feature of game replay. Use rcssmonitor instead of rcsslogplayer.
-
+- rcssmonitor
+    ```bash
+    PATH="/usr/local/opt/qt/bin:$PATH" PKG_CONFIG_PATH="/usr/local/opt/qt/lib/pkgconfig" ./configure
+    ```
 
 
 
