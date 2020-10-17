@@ -44,7 +44,7 @@ Central control | Distributed control
     - [rcssserver repo](https://github.com/rcsoccersim/rcssserver)
     - [rcssserver-docker](https://github.com/orangefoil/rcssserver-docker)
     ```bash
-    docker run -d --name rcssserver -p 6000:6000 orangefoil/rcssserver
+    docker run -d --name rcssserver -p 6000:6000/udp orangefoil/rcssserver
     ```
 - rcsslogplayer
     - [Deprecated] The RoboCup Soccer Simulator Monitor v16 or later support the feature of game replay. Use rcssmonitor instead of rcsslogplayer.
