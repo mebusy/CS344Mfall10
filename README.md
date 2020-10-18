@@ -1,15 +1,16 @@
-# CS344Mfall10
-CS344M: Autonomous Multiagent Systems -- Fall 2010
+# CS344Mfall15
+
+CS344M: Autonomous Multiagent Systems -- Fall 2015
 
 [Dr.pstone's teaching](https://www.cs.utexas.edu/~pstone/teaching.shtml)
 
 [The RoboCup Simulator Team Repository](http://medialab.di.unipi.it/Project/Robocup/pub)
 
-[cs344m website](https://www.cs.utexas.edu/~pstone/Courses/344Mfall10)
+[cs344m website](https://www.cs.utexas.edu/~patmac/cs344m/)
 
-[assignment](https://www.cs.utexas.edu/~pstone/Courses/344Mfall10/assignments/index.html)
+[assignment](https://www.cs.utexas.edu/~patmac/cs344m/assignments/index.html)
 
-[cs344m Resource](https://www.cs.utexas.edu/~pstone/Courses/344Mfall10/resources/index.html)
+[cs344m Resource](https://www.cs.utexas.edu/~patmac/cs344m/resources/index.html)
 
 
 ## Week 0: Introduction
